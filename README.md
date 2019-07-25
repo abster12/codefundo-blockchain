@@ -1,2 +1,4 @@
 # codefundo-blockchain
 Idea for codefundo 2019 based on blockchain
+
+The idea will be that for better and fair elections the election comission needs to monitor that all the parties involved should be following the rules laid down by the commission. So for that 2 of the features this blockchain application will have is that there will be continuous monitoring of the funds being used by the candidates as well as the political parties so that there is no breaking of rules related to money. Another feature with another rule being that no party tries to go over election commission on the basis of the campaigning time and the methods being used during the campaigns. This will be based on continous verification of the transactions being made by the candidates and the contracts will be set up in that way.
